@@ -2,13 +2,13 @@
 OREH has discontinued into Temple, which supports all versions 2007E  - 2013L. Due to OREH's discontinuation (and leaks of the DLLs), [we have released some OREH versions publicly](https://github.com/ZwDaNk/OREH/releases/tag/v1).
 
 # OREH
-The source and downloads for a discontinued exploit for the launcher "Only Retro Rōblox Here".
+The source and downloads for a discontinued exploit for the revival-style launcher "Only Retro Rōblox Here".
 
 ## Key
 * N = NO
 * Y = YES
 * Elevated = Elevated security context
-* ImGui = Has an ImGui internal ui
+* ImGui = Has an [ImGui](https://github.com/ocornut/imgui) internal ui
 * Alternatives = Alternative exploits that work on said version
 
 ## Roadmap
